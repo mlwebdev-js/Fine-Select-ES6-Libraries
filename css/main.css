@@ -1,0 +1,13 @@
+.highlight {
+    color: blue;
+    
+}
+
+button, div , input {
+    display: block;
+    margin: 20px 0px 20px 0px;
+}
+
+.invalid {
+    border-color: red;
+}
